@@ -44,9 +44,3 @@ const Form = ({ contacts, setContacts }) => {
 };
 
 export default Form;
-
-/*  nereye geçtiğimi görüyon muu
-yok ben burdayım lol takip etmeyi kapadım 
-tmamm seni seviyomm 
-bende seni seviyorumm
-      */

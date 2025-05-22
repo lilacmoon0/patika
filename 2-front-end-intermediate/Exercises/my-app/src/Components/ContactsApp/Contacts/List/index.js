@@ -1,17 +1,20 @@
 import React from "react";
 
-const List = ({contacts, setContacts}) => {
-   return (
+const List = ({ filtered }) => {
+  return (
     <div>
-        <ul>
-          {
-            contacts.map(({fullName, phone},index) => {
-              return <li key={index}> {fullName}: {phone}</li>
-            })
-          }
-        </ul>
+      <ul>
+        {filtered.map(({ fullName, phone }, index) => {
+          return (
+            <li key={index}>
+              {" "}
+              {fullName}: {phone}
+            </li>
+          );
+        })}
+      </ul>
     </div>
   );
-}
+};
 
-export default List
+export default List;
