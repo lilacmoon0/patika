@@ -1,0 +1,170 @@
+{
+  "0": {
+    "name": "Clear sky",
+    "label": "Clear Sky",
+    "day": "clear-day",
+    "night": "clear-night"
+  },
+  "1": {
+    "name": "Mainly clear",
+    "label": "Mainly Clear",
+    "day": "mainly-clear-day",
+    "night": "mainly-clear-night"
+  },
+  "2": {
+    "name": "Partly cloudy",
+    "label": "Partly Cloudy",
+    "day": "partly-cloudy-day",
+    "night": "partly-cloudy-night"
+  },
+  "3": {
+    "name": "Overcast",
+    "label": "Overcast",
+    "day": "overcast-day",
+    "night": "overcast-night"
+  },
+  "45": {
+    "name": "Fog",
+    "label": "Fog",
+    "day": "fog-day",
+    "night": "fog-night"
+  },
+  "48": {
+    "name": "Depositing rime fog",
+    "label": "Depositing Rime Fog",
+    "day": "fog",
+    "night": "fog"
+  },
+  "51": {
+    "name": "Drizzle: Light intensity",
+    "label": "Drizzle: Light Intensity",
+    "day": "partly-cloudy-day-drizzle",
+    "night": "partly-cloudy-night-drizzle"
+  },
+  "53": {
+    "name": "Drizzle: Moderate intensity",
+    "label": "Drizzle: Moderate Intensity",
+    "day": "partly-cloudy-day-drizzle",
+    "night": "partly-cloudy-night-drizzle"
+  },
+  "55": {
+    "name": "Drizzle: Dense intensity",
+    "label": "Drizzle: Dense Intensity",
+    "day": "partly-cloudy-day-drizzle",
+    "night": "partly-cloudy-night-drizzle"
+  },
+  "56": {
+    "name": "Freezing Drizzle: Light intensity",
+    "label": "Freezing Drizzle: Light Intensity",
+    "day": "drizzle",
+    "night": "drizzle"
+  },
+  "57": {
+    "name": "Freezing Drizzle: Dense intensity",
+    "label": "Freezing Drizzle: Dense Intensity",
+    "day": "drizzle",
+    "night": "drizzle"
+  },
+  "61": {
+    "name": "Rain: Slight intensity",
+    "label": "Rain: Slight Intensity",
+    "day": "partly-cloudy-day-rain",
+    "night": "partly-cloudy-night-rain"
+  },
+  "63": {
+    "name": "Rain: Moderate intensity",
+    "label": "Rain: Moderate Intensity",
+    "day": "partly-cloudy-day-rain",
+    "night": "partly-cloudy-night-rain"
+  },
+  "65": {
+    "name": "Rain: Heavy intensity",
+    "label": "Rain: Heavy Intensity",
+    "day": "partly-cloudy-day-rain",
+    "night": "partly-cloudy-night-rain"
+  },
+  "66": {
+    "name": "Freezing Rain: Light intensity",
+    "label": "Freezing Rain: Light Intensity",
+    "day": "rain",
+    "night": "rain"
+  },
+  "67": {
+    "name": "Freezing Rain: Heavy intensity",
+    "label": "Freezing Rain: Heavy Intensity",
+    "day": "rain",
+    "night": "rain"
+  },
+  "71": {
+    "name": "Snow fall: Slight intensity",
+    "label": "Snow Fall: Slight Intensity",
+    "day": "partly-cloudy-day-snow",
+    "night": "partly-cloudy-night-snow"
+  },
+  "73": {
+    "name": "Snow fall: Moderate intensity",
+    "label": "Snow Fall: Moderate Intensity",
+    "day": "partly-cloudy-day-snow",
+    "night": "partly-cloudy-night-snow"
+  },
+  "75": {
+    "name": "Snow fall: Heavy intensity",
+    "label": "Snow Fall: Heavy Intensity",
+    "day": "partly-cloudy-day-snow",
+    "night": "partly-cloudy-night-snow"
+  },
+  "77": {
+    "name": "Snow grains",
+    "label": "Snow Grains",
+    "day": "snow",
+    "night": "snow"
+  },
+  "80": {
+    "name": "Rain showers: Slight intensity",
+    "label": "Rain Showers: Slight Intensity",
+    "day": "partly-cloudy-day-rain",
+    "night": "partly-cloudy-night-rain"
+  },
+  "81": {
+    "name": "Rain showers: Moderate intensity",
+    "label": "Rain Showers: Moderate Intensity",
+    "day": "partly-cloudy-day-rain",
+    "night": "partly-cloudy-night-rain"
+  },
+  "82": {
+    "name": "Rain showers: Violent intensity",
+    "label": "Rain Showers: Violent Intensity",
+    "day": "partly-cloudy-day-rain",
+    "night": "partly-cloudy-night-rain"
+  },
+  "85": {
+    "name": "Snow showers: Slight intensity",
+    "label": "Snow Showers: Slight Intensity",
+    "day": "partly-cloudy-day-snow",
+    "night": "partly-cloudy-night-snow"
+  },
+  "86": {
+    "name": "Snow showers: Heavy intensity",
+    "label": "Snow Showers: Heavy Intensity",
+    "day": "partly-cloudy-day-snow",
+    "night": "partly-cloudy-night-snow"
+  },
+  "95": {
+    "name": "Thunderstorm: Slight or moderate",
+    "label": "Thunderstorm: Slight or Moderate",
+    "day": "thunderstorms-day",
+    "night": "thunderstorms-night"
+  },
+  "96": {
+    "name": "Thunderstorm with slight hail",
+    "label": "Thunderstorm with Slight Hail",
+    "day": "thunderstorms-day-rain",
+    "night": "thunderstorms-night-rain"
+  },
+  "99": {
+    "name": "Thunderstorm with heavy hail",
+    "label": "Thunderstorm with Heavy Hail",
+    "day": "thunderstorms-day-rain",
+    "night": "thunderstorms-night-rain"
+  }
+}

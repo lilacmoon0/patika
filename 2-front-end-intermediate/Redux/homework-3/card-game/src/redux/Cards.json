@@ -1,0 +1,20 @@
+[
+  { "id": 1, "img": "/images/card-1.png", "flip": false, "done": false },
+  { "id": 2, "img": "/images/card-2.png", "flip": false, "done": false },
+  { "id": 3, "img": "/images/card-3.png", "flip": false, "done": false  },
+  { "id": 4, "img": "/images/card-4.png", "flip": false, "done": false },
+  { "id": 5, "img": "/images/card-5.png", "flip": false, "done": false },
+  { "id": 6, "img": "/images/card-6.png", "flip": false, "done": false },
+  { "id": 7, "img": "/images/card-7.png", "flip": false, "done": false },
+  { "id": 8, "img": "/images/card-8.png", "flip": false, "done": false },
+  { "id": 9, "img": "/images/card-9.png", "flip": false, "done": false  },
+  { "id": 10, "img": "/images/card-10.png", "flip": false, "done": false  },
+  { "id": 11, "img": "/images/card-11.png", "flip": false, "done": false  },
+  { "id": 12, "img": "/images/card-12.png", "flip": false, "done": false  },
+  { "id": 13, "img": "/images/card-13.png", "flip": false, "done": false  },
+  { "id": 14, "img": "/images/card-14.png", "flip": false, "done": false  },
+  { "id": 15, "img": "/images/card-15.png", "flip": false, "done": false  },
+  { "id": 16, "img": "/images/card-16.png", "flip": false, "done": false  },
+  { "id": 17, "img": "/images/card-17.png", "flip": false, "done": false  },
+  { "id": 18, "img": "/images/card-18.png", "flip": false, "done": false  }
+]
