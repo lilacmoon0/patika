@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add to App.css or a new CSS file and import it in Cards.js */
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 24px;
+  margin: 32px auto;
+  max-width: 900px;
+  flex-wrap: wrap;
+}
+
+.card {
+  transition: transform 0.15s;
+}
+.card:hover {
+  transform: translateY(-6px) scale(1.03);
+}
+
+.dropdown-container {
+  display: flex;
+  justify-content: center;
+  margin: 24px 0 12px 0;
+}
+
+.custom-select {
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: 2px solid #3498db;
+  background: #fff;
+  color: #222;
+  font-size: 1.1rem;
+  font-weight: 500;
+  outline: none;
+  transition: border-color 0.2s;
+  box-shadow: 0 2px 8px rgba(52, 152, 219, 0.07);
+}
+
+.custom-select:focus {
+  border-color: #27ae60;
+}
+
+.custom-select option {
+  font-size: 1rem;
+}

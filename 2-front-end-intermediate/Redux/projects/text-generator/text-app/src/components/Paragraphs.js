@@ -9,7 +9,7 @@ export const Paragraphs = () => {
   const dispatch = useDispatch();
 
   const handleChange = (e) => {
-    const value = e.target.value === "true"; // convert string to boolean
+    const value = e.target.value === "true"; 
     dispatch(setIncludeHtml(value));
     dispatch(fetchParagraphs());
   };

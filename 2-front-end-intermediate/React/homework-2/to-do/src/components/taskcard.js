@@ -22,9 +22,9 @@ function TaskCard(props) {
   };
 
   const handleInputBlur = () => {
-    // Save the changes when the input field loses focus
+    
     setIsEditing(false);
-    // Call a function to handle saving the edited text to the parent component
+    
     props.onEditTask(props.id, editedText);
   };
 

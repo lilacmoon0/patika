@@ -29,7 +29,6 @@ export const Game = ({ gameScore, setScore }) => {
   };
 
   useEffect(() => {
-    // Update score when a new match is made
     if (matchedCards.length > prevMatchedCount.current) {
       setScore((prev) => prev + 50);
       prevMatchedCount.current = matchedCards.length;
@@ -57,7 +56,7 @@ export const Game = ({ gameScore, setScore }) => {
   }, [flippedCards, dispatch, setScore]);
 
   const handleReplay = () => {
-    window.location.reload(); // Simple reload, or dispatch a reset action if you have one
+    window.location.reload();
   };
 
   return (

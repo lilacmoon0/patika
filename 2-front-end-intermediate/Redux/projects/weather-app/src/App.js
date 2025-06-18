@@ -1,15 +1,9 @@
-import WeatherApp from "./components/WeatherApp";
-import { CityDataProvider } from "./context/CityData";
-import { WeatherInfoProvider } from "./context/WeatherInfo";
+import { Container } from "./components/Container";
 
 function App() {
   return (
     <div className="App">
-      <CityDataProvider>
-        <WeatherInfoProvider>
-          <WeatherApp />
-        </WeatherInfoProvider>
-      </CityDataProvider>
+      <Container />
     </div>
   );
 }

@@ -5,7 +5,7 @@ export const Money = ({ totalMoney }) => {
   const raf = useRef();
 
   useEffect(() => {
-    const duration = 600; // ms
+    const duration = 600;
     const start = displayMoney;
     const end = Number(totalMoney) || 0;
     const startTime = performance.now();
@@ -24,7 +24,7 @@ export const Money = ({ totalMoney }) => {
     raf.current = requestAnimationFrame(animate);
 
     return () => cancelAnimationFrame(raf.current);
-    // eslint-disable-next-line
+   
   }, [totalMoney]);
 
   return (

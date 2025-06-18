@@ -50,7 +50,7 @@ export const Products = ({ setTotalMoney, totalMoney }) => {
               placeholder={product.amount}
               onChange={(e) => {
                 let value = Number(e.target.value);
-                // Clamp value between 0 and max
+
                 const maxValue =
                   product.amount + Math.floor(totalMoney / product.price);
                 if (value > maxValue) value = maxValue;

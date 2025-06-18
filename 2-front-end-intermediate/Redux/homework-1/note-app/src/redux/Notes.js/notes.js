@@ -2,14 +2,14 @@ import { createSlice } from "@reduxjs/toolkit";
 import { nanoid } from "nanoid";
 
 const color = [
-  "#FFD6E0", // pastel pink
-  "#B5EAD7", // pastel mint
-  "#C7CEEA", // pastel purple
-  "#FFF1BA", // pastel yellow
-  "#FFDAC1", // pastel peach
-  "#E2F0CB", // pastel green
-  "#B5D8FA", // pastel blue
-  "#FFB7B2", // pastel coral
+  "#FFD6E0",
+  "#B5EAD7",
+  "#C7CEEA",
+  "#FFF1BA",
+  "#FFDAC1",
+  "#E2F0CB",
+  "#B5D8FA",
+  "#FFB7B2",
 ];
 
 
@@ -48,7 +48,7 @@ export const noteSlice = createSlice({
   },
 });
 
-// Action creators are generated for each case reducer function
+
 export const { addNote} = noteSlice.actions;
 
 export default noteSlice.reducer;

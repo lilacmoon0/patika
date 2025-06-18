@@ -1,0 +1,188 @@
+.weather-card-container {
+  max-width: 540px;
+  margin: 2rem auto;
+  background: linear-gradient(135deg, #f0f4fd 0%, #f7fafc 100%);
+  border-radius: 28px;
+  box-shadow: 0 8px 32px rgba(52, 100, 150, 0.10);
+  padding: 2rem 1.5rem 1.5rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.city-title {
+  text-align: center;
+  font-size: 2rem;
+  color: #457b9d;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.today-section {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  margin-bottom: 0;
+}
+
+.today-card {
+  background: transparent;
+  border-radius: 22px 22px 0 0;
+  box-shadow: none;
+  padding: 2rem 1.5rem 1.2rem 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.today-main {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.today-icon {
+  font-size: 3.5rem;
+  filter: drop-shadow(0 2px 8px #fff2);
+}
+
+.today-temp {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #1d3557;
+  text-shadow: 0 2px 8px #fff6;
+}
+
+.today-details {
+  margin-top: 1.2rem;
+  font-size: 1.1rem;
+  color: #457b9d;
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.today-day {
+  margin-top: 1.2rem;
+  font-size: 1.1rem;
+  color: #a8a8a8;
+  letter-spacing: 1px;
+}
+
+.weekdays-section {
+  display: flex;
+  justify-content: space-between;
+  gap: 0;
+  margin-top: 0;
+  border-radius: 0 0 18px 18px;
+  overflow: hidden;
+  background: transparent;
+  box-shadow: none;
+}
+
+.weekday-card {
+  background: transparent;
+  border-radius: 0;
+  padding: 1.1rem 0.5rem 1.2rem 0.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+  box-shadow: none;
+  border-left: 1px solid #e0eafc;
+}
+
+.weekday-card:first-child {
+  border-left: none;
+}
+
+.weekday-day {
+  font-size: 1rem;
+  color: #457b9d;
+  margin-bottom: 0.3rem;
+  font-weight: 500;
+}
+
+.weekday-icon {
+  font-size: 2rem;
+  margin-bottom: 0.2rem;
+}
+
+.weekday-temp {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #1d3557;
+  margin-bottom: 0.2rem;
+}
+
+.weekday-details {
+  display: none;
+}
+
+/* Dropdown menu styling */
+.dropdown-menu {
+  display: block;
+  margin: 0 auto 2rem auto;
+  padding: 0.7rem 1.2rem;
+  border-radius: 10px;
+  border: 1.5px solid #457b9d;
+  background: linear-gradient(90deg, #f0f4fd 0%, #f7fafc 100%);
+  color: #1d3557;
+  font-size: 1.1rem;
+  font-weight: 500;
+  outline: none;
+  box-shadow: 0 2px 8px rgba(69, 123, 157, 0.07);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.dropdown-menu:focus {
+  border-color: #a8dadc;
+  box-shadow: 0 4px 16px rgba(168, 218, 220, 0.13);
+}
+
+.dropdown-menu option {
+  font-size: 1rem;
+  color: #1d3557;
+  background: #fff;
+}
+
+.weekdays-section {
+  display: flex;
+  justify-content: space-between;
+  gap: 0;
+  margin-top: 0;
+  border-radius: 0 0 18px 18px;
+  overflow: hidden;
+  background: transparent;
+  box-shadow: none;
+}
+
+.weekday-card {
+  background: transparent;
+  border-radius: 0;
+  padding: 1.1rem 0.5rem 1.2rem 0.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+  box-shadow: none;
+  border-left: none; /* No lines between cards */
+}
+
+.weather-card-container,
+.city-title,
+.today-temp,
+.today-details,
+.today-day,
+.weekday-day,
+.weekday-icon,
+.weekday-temp,
+.dropdown-menu,
+.dropdown-menu option {
+  color: #830074; /* Tailwind's purple-600 */
+}

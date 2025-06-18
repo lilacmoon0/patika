@@ -9,7 +9,7 @@ function shuffleArray(array) {
   return array;
 }
 
-// Create a new array with original and copy, each with a unique instanceId
+
 const allCards = [
   ...cards.map(card => ({ ...card, instanceId: `${card.id}-a` })),
   ...cards.map(card => ({ ...card, instanceId: `${card.id}-b` }))

@@ -15,7 +15,7 @@ export const WeatherInfoProvider = ({ children }) => {
     const city = coordinates.find((item) => item.name === selectedCity);
     if (city) {
       const { lat, lng } = city;
-      const newUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lng}&daily=temperature_2m_max,temperature_2m_min,weather_code,rain_sum,snowfall_sum,precipitation_sum,precipitation_hours,sunrise,sunset&hourly=temperature_2m,precipitation,rain,snowfall,cloud_cover&models=jma_seamless&current=precipitation,temperature_2m,is_day,rain,showers,snowfall&timezone=auto`;
+      const newUrl = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lng}&daily=weather_code&hourly=temperature_2m,relative_humidity_2m,weather_code,pressure_msl,wind_speed_10m&current=temperature_2m,weather_code,wind_speed_10m,pressure_msl,relative_humidity_2m,precipitation`;
       setUrl(newUrl);
     }
   }, [selectedCity, coordinates]);
