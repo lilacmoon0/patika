@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background: linear-gradient(135deg, #2d1b3d 0%, #3e2547 50%, #4a2d5c 100%);
+  min-height: 100vh;
+  color: #f5e6ff;
 }
 
 .App-logo {
@@ -35,4 +38,167 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/* CheckerBoard.css */
+.checker-board {
+  display: inline-block;
+  border: 4px solid #8b5a8c;
+  background: #2a1d3a;
+  border-radius: 12px;
+  width: 384px; /* 8 cells * 48px */
+  height: 384px; /* 8 cells * 48px */
+}
+
+.checker-row {
+  display: flex;
+  width: 100%;
+  height: 48px;
+}
+
+.checker-cell {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-sizing: border-box;
+  min-width: 48px;
+  min-height: 48px;
+  transition: all 0.2s ease;
+}
+
+.checker-cell.dark {
+  background: #3e2547;
+}
+
+.checker-cell.light {
+  background: #543861;
+}
+
+.checker-cell.selected {
+  background: #d8a7ca !important;
+  border: 2px solid #e6b3d3 !important;
+}
+
+.checker-cell.highlighted {
+  background: #9bb5ff !important;
+  border: 2px solid #7c9cfc !important;
+}
+
+.checker-cell.forced-move {
+  background: #e8a5d1 !important;
+  border: 2px solid #e291c7 !important;
+}
+
+.checker-piece {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+
+.checker-piece:hover {
+  transform: translateY(-1px);
+}
+
+.checker-piece.white {
+  background: linear-gradient(145deg, #f5e6ff, #e6d4f0);
+  border: 2px solid #d8a7ca;
+}
+
+.checker-piece.red {
+  background: linear-gradient(145deg, #e291c7, #d477b8);
+  border: 2px solid #c05299;
+}
+
+.checker-piece.king {
+  background: linear-gradient(145deg, #d8a7ca, #c791b5);
+  border: 3px solid #b8699c;
+  position: relative;
+}
+
+.checker-piece.king::after {
+  content: "👑";
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3)) brightness(1.2);
+}
+
+.checker-piece.white.king {
+  background: linear-gradient(145deg, #f5e6ff, #e6d4f0);
+  border: 3px solid #9bb5ff;
+}
+
+.checker-piece.red.king {
+  background: linear-gradient(145deg, #e291c7, #d477b8);
+  border: 3px solid #c05299;
+}
+
+/* Table styling */
+.table {
+  text-align: center;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.table h1 {
+  color: #f5e6ff;
+  margin-bottom: 10px;
+  min-height: 40px;
+  font-weight: 600;
+}
+
+.table h2 {
+  color: #d8a7ca;
+  margin-bottom: 20px;
+  min-height: 30px;
+  font-weight: 500;
+}
+
+.table button {
+  background: linear-gradient(145deg, #8b5a8c, #a66ba8);
+  color: #f5e6ff;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  min-width: 120px;
+  min-height: 40px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  border: 1px solid #d8a7ca;
+}
+
+.table button:hover {
+  background: linear-gradient(145deg, #a66ba8, #c791b5);
+  transform: translateY(-2px);
+}
+
+.white-taken, .red-taken {
+  margin: 10px 0;
+  font-weight: 600;
+  font-size: 16px;
+  min-height: 20px;
+}
+
+.white-taken {
+  color: #f5e6ff;
+}
+
+.red-taken {
+  color: #e8a5d1;
 }
