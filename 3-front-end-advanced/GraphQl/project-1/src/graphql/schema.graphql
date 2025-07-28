@@ -1,0 +1,37 @@
+type Country {
+   code: String!
+   name: String!
+   native: String!
+   emoji: String!
+   emojiU: String!
+   capital: String!
+   phone: String!
+   continent_id: String!
+   language_ids: [String!]!
+   continent: Continent!
+   languages: [Language!]!
+}
+
+type Continent {
+  code: String!
+  name: String!
+  countries: [Country!]!
+}
+
+type Language {
+   code: String!
+   name: String!
+   native: String!
+   rtl: Boolean!
+}
+
+type Query {
+    countries: [Country!]!
+    country(code: String!): Country
+    continents: [Continent!]!
+    continent(code: String!): Continent
+    languages: [Language!]!
+    language(code: String!): Language
+
+  
+}

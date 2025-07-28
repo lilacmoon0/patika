@@ -1,0 +1,31 @@
+type Option {
+  id: Int!
+  text: String!
+  votes: Int!
+  questionId: Int!
+}
+
+type Question {
+  id: Int!
+  voteCount: Int!
+  question: String!
+  options: [Option!]!
+}
+
+type Query {
+  questions: [Question!]!
+  question(id: Int!): Question!
+  options(questionId: Int!): [Option!]!
+}
+
+type Mutation {
+  createQuestion(question: String!): Question!
+  createOption(questionId: Int!, text: String!): Option!
+  voteOption(questionId: Int!, optionId: Int!): Option!
+  deleteQuestion(questionId: Int!): Boolean!
+}
+
+type Subscription {
+  questionCreated: Question!
+  optionVoted: Option!
+}
