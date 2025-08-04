@@ -1,0 +1,8 @@
+[
+  { "id": 1, "img": "/images/card-1.png", "flip": false, "done": false },
+  { "id": 2, "img": "/images/card-2.png", "flip": false, "done": false },
+  { "id": 3, "img": "/images/card-3.png", "flip": false, "done": false  },
+  { "id": 4, "img": "/images/card-4.png", "flip": false, "done": false },
+  { "id": 5, "img": "/images/card-5.png", "flip": false, "done": false },
+  { "id": 6, "img": "/images/card-6.png", "flip": false, "done": false }
+]

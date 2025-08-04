@@ -1,0 +1,172 @@
+.form-builder {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(20px);
+  margin: 10px;
+  border-radius: 16px;
+  box-shadow: 
+    0 20px 40px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(255, 255, 255, 0.2);
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+.form-builder::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea, #764ba2, #f093fb);
+  z-index: 2;
+}
+
+.form-builder-header {
+  position: relative;
+  z-index: 2;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(20px);
+  padding: 15px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.04);
+  flex-shrink: 0;
+}
+
+.form-builder-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.form-builder-content {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+/* Modern button enhancements for form builder */
+.form-builder .btn {
+  padding: 14px 28px;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.form-builder .btn:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.form-builder .btn-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.form-builder .btn-secondary {
+  background: linear-gradient(135deg, #718096 0%, #4a5568 100%);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.form-builder .btn-danger {
+  background: linear-gradient(135deg, #fc8181 0%, #e53e3e 100%);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Loading animation */
+@keyframes shimmer {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(200px + 100%) 0;
+  }
+}
+
+.form-builder-content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.1),
+      transparent
+    );
+  background-size: 200px 100%;
+  animation: shimmer 3s infinite;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Responsive design */
+@media (max-width: 1024px) {
+  .form-builder {
+    margin: 15px;
+    border-radius: 20px;
+  }
+  
+  .form-builder-header {
+    padding: 20px 25px;
+  }
+}
+
+@media (max-width: 768px) {
+  .form-builder {
+    margin: 10px;
+    height: calc(100vh - 120px);
+    border-radius: 16px;
+  }
+  
+  .form-builder-content {
+    flex-direction: column;
+  }
+  
+  .form-builder-actions {
+    gap: 12px;
+  }
+  
+  .form-builder .btn {
+    padding: 12px 20px;
+    font-size: 13px;
+    border-radius: 25px;
+  }
+  
+  .form-builder-header {
+    padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .form-builder {
+    margin: 5px;
+    border-radius: 12px;
+  }
+  
+  .form-builder-actions {
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .form-builder .btn {
+    width: 100%;
+    max-width: 200px;
+  }
+}
