@@ -51,7 +51,9 @@ useServer(
   wsServer
 );
 
-server.listen(4000, () => {
-  console.log("🚀  Server ready at http://localhost:4000");
-  console.log("🔗  WebSocket server ready at ws://localhost:4000/graphql");
+const PORT = process.env.PORT || 4000;
+
+server.listen(PORT, () => {
+  console.log(`🚀  Server ready at http://localhost:${PORT}`);
+  console.log(`🔗  WebSocket server ready at ws://localhost:${PORT}/graphql`);
 });
