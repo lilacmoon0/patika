@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2bf3770.css",
-    "main.js": "/static/js/main.b6ffa538.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/static/js/453.0ccb7fb4.chunk.js",
-    "index.html": "/index.html",
-    "main.e2bf3770.css.map": "/static/css/main.e2bf3770.css.map",
-    "main.b6ffa538.js.map": "/static/js/main.b6ffa538.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/patika/2-front-end-intermediate/React/homework-3/weather-app/build/static/css/main.e2bf3770.css",
+    "main.js": "/patika/2-front-end-intermediate/React/homework-3/weather-app/build/static/js/main.3e54dd4f.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/patika/2-front-end-intermediate/React/homework-3/weather-app/build/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/patika/2-front-end-intermediate/React/homework-3/weather-app/build/index.html",
+    "main.e2bf3770.css.map": "/patika/2-front-end-intermediate/React/homework-3/weather-app/build/static/css/main.e2bf3770.css.map",
+    "main.3e54dd4f.js.map": "/patika/2-front-end-intermediate/React/homework-3/weather-app/build/static/js/main.3e54dd4f.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/patika/2-front-end-intermediate/React/homework-3/weather-app/build/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2bf3770.css",
-    "static/js/main.b6ffa538.js"
+    "static/js/main.3e54dd4f.js"
   ]
 }

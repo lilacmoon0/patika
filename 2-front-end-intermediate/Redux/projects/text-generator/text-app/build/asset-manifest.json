@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba5f566e.css",
-    "main.js": "/static/js/main.742d18a3.js",
-    "static/js/453.34045200.chunk.js": "/static/js/453.34045200.chunk.js",
-    "index.html": "/index.html",
-    "main.ba5f566e.css.map": "/static/css/main.ba5f566e.css.map",
-    "main.742d18a3.js.map": "/static/js/main.742d18a3.js.map",
-    "453.34045200.chunk.js.map": "/static/js/453.34045200.chunk.js.map"
+    "main.css": "/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/static/css/main.ba5f566e.css",
+    "main.js": "/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/static/js/main.5b6b6b9f.js",
+    "static/js/453.34045200.chunk.js": "/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/static/js/453.34045200.chunk.js",
+    "index.html": "/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/index.html",
+    "main.ba5f566e.css.map": "/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/static/css/main.ba5f566e.css.map",
+    "main.5b6b6b9f.js.map": "/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/static/js/main.5b6b6b9f.js.map",
+    "453.34045200.chunk.js.map": "/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/static/js/453.34045200.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba5f566e.css",
-    "static/js/main.742d18a3.js"
+    "static/js/main.5b6b6b9f.js"
   ]
 }

@@ -2,6 +2,7 @@
   "name": "rick-and-morty-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app/build",
   "dependencies": {
     "@apollo/client": "^3.13.8",
     "@testing-library/dom": "^10.4.0",

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/patika/static/css/main.0afa7805.css",
-    "main.js": "/patika/static/js/main.b91b269e.js",
-    "static/js/453.a6f6b83d.chunk.js": "/patika/static/js/453.a6f6b83d.chunk.js",
-    "index.html": "/patika/index.html",
-    "main.0afa7805.css.map": "/patika/static/css/main.0afa7805.css.map",
-    "main.b91b269e.js.map": "/patika/static/js/main.b91b269e.js.map",
-    "453.a6f6b83d.chunk.js.map": "/patika/static/js/453.a6f6b83d.chunk.js.map"
+    "main.css": "/patika/2-front-end-intermediate/React/homework-2/to-do/build/static/css/main.0afa7805.css",
+    "main.js": "/patika/2-front-end-intermediate/React/homework-2/to-do/build/static/js/main.bdffbe85.js",
+    "static/js/453.a6f6b83d.chunk.js": "/patika/2-front-end-intermediate/React/homework-2/to-do/build/static/js/453.a6f6b83d.chunk.js",
+    "index.html": "/patika/2-front-end-intermediate/React/homework-2/to-do/build/index.html",
+    "main.0afa7805.css.map": "/patika/2-front-end-intermediate/React/homework-2/to-do/build/static/css/main.0afa7805.css.map",
+    "main.bdffbe85.js.map": "/patika/2-front-end-intermediate/React/homework-2/to-do/build/static/js/main.bdffbe85.js.map",
+    "453.a6f6b83d.chunk.js.map": "/patika/2-front-end-intermediate/React/homework-2/to-do/build/static/js/453.a6f6b83d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0afa7805.css",
-    "static/js/main.b91b269e.js"
+    "static/js/main.bdffbe85.js"
   ]
 }

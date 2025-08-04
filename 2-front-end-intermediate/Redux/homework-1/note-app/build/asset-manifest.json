@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ceb8a350.css",
-    "main.js": "/static/js/main.6766f349.js",
-    "static/js/453.118a6c16.chunk.js": "/static/js/453.118a6c16.chunk.js",
-    "index.html": "/index.html",
-    "main.ceb8a350.css.map": "/static/css/main.ceb8a350.css.map",
-    "main.6766f349.js.map": "/static/js/main.6766f349.js.map",
-    "453.118a6c16.chunk.js.map": "/static/js/453.118a6c16.chunk.js.map"
+    "main.css": "/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/static/css/main.ceb8a350.css",
+    "main.js": "/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/static/js/main.aa9f7264.js",
+    "static/js/453.118a6c16.chunk.js": "/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/static/js/453.118a6c16.chunk.js",
+    "index.html": "/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/index.html",
+    "main.ceb8a350.css.map": "/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/static/css/main.ceb8a350.css.map",
+    "main.aa9f7264.js.map": "/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/static/js/main.aa9f7264.js.map",
+    "453.118a6c16.chunk.js.map": "/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/static/js/453.118a6c16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb8a350.css",
-    "static/js/main.6766f349.js"
+    "static/js/main.aa9f7264.js"
   ]
 }

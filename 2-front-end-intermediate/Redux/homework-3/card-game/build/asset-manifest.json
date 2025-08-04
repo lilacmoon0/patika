@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6665f425.css",
-    "main.js": "/static/js/main.d8b2704e.js",
-    "static/js/453.89c42a79.chunk.js": "/static/js/453.89c42a79.chunk.js",
-    "index.html": "/index.html",
-    "main.6665f425.css.map": "/static/css/main.6665f425.css.map",
-    "main.d8b2704e.js.map": "/static/js/main.d8b2704e.js.map",
-    "453.89c42a79.chunk.js.map": "/static/js/453.89c42a79.chunk.js.map"
+    "main.css": "/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/static/css/main.6665f425.css",
+    "main.js": "/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/static/js/main.6ef1a51b.js",
+    "static/js/453.89c42a79.chunk.js": "/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/static/js/453.89c42a79.chunk.js",
+    "index.html": "/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/index.html",
+    "main.6665f425.css.map": "/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/static/css/main.6665f425.css.map",
+    "main.6ef1a51b.js.map": "/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/static/js/main.6ef1a51b.js.map",
+    "453.89c42a79.chunk.js.map": "/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/static/js/453.89c42a79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6665f425.css",
-    "static/js/main.d8b2704e.js"
+    "static/js/main.6ef1a51b.js"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.10a64452.css",
-    "main.js": "/static/js/main.5791c681.js",
-    "index.html": "/index.html",
-    "main.10a64452.css.map": "/static/css/main.10a64452.css.map",
-    "main.5791c681.js.map": "/static/js/main.5791c681.js.map"
+    "main.css": "/patika/3-front-end-advanced/GraphQl/project-3/client/build/static/css/main.10a64452.css",
+    "main.js": "/patika/3-front-end-advanced/GraphQl/project-3/client/build/static/js/main.5791c681.js",
+    "index.html": "/patika/3-front-end-advanced/GraphQl/project-3/client/build/index.html",
+    "main.10a64452.css.map": "/patika/3-front-end-advanced/GraphQl/project-3/client/build/static/css/main.10a64452.css.map",
+    "main.5791c681.js.map": "/patika/3-front-end-advanced/GraphQl/project-3/client/build/static/js/main.5791c681.js.map"
   },
   "entrypoints": [
     "static/css/main.10a64452.css",

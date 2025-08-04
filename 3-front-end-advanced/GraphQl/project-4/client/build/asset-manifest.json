@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.39dfb09e.css",
-    "main.js": "/static/js/main.b4f008cd.js",
-    "static/js/453.a3c1d153.chunk.js": "/static/js/453.a3c1d153.chunk.js",
-    "index.html": "/index.html",
-    "main.39dfb09e.css.map": "/static/css/main.39dfb09e.css.map",
-    "main.b4f008cd.js.map": "/static/js/main.b4f008cd.js.map",
-    "453.a3c1d153.chunk.js.map": "/static/js/453.a3c1d153.chunk.js.map"
+    "main.css": "/patika/3-front-end-advanced/GraphQl/project-4/client/build/static/css/main.39dfb09e.css",
+    "main.js": "/patika/3-front-end-advanced/GraphQl/project-4/client/build/static/js/main.0e3513bf.js",
+    "static/js/453.a3c1d153.chunk.js": "/patika/3-front-end-advanced/GraphQl/project-4/client/build/static/js/453.a3c1d153.chunk.js",
+    "index.html": "/patika/3-front-end-advanced/GraphQl/project-4/client/build/index.html",
+    "main.39dfb09e.css.map": "/patika/3-front-end-advanced/GraphQl/project-4/client/build/static/css/main.39dfb09e.css.map",
+    "main.0e3513bf.js.map": "/patika/3-front-end-advanced/GraphQl/project-4/client/build/static/js/main.0e3513bf.js.map",
+    "453.a3c1d153.chunk.js.map": "/patika/3-front-end-advanced/GraphQl/project-4/client/build/static/js/453.a3c1d153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39dfb09e.css",
-    "static/js/main.b4f008cd.js"
+    "static/js/main.0e3513bf.js"
   ]
 }

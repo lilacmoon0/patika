@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d1b84c2.css",
-    "main.js": "/static/js/main.e14e9b93.js",
-    "static/js/453.12bc159b.chunk.js": "/static/js/453.12bc159b.chunk.js",
-    "index.html": "/index.html",
-    "main.4d1b84c2.css.map": "/static/css/main.4d1b84c2.css.map",
-    "main.e14e9b93.js.map": "/static/js/main.e14e9b93.js.map",
-    "453.12bc159b.chunk.js.map": "/static/js/453.12bc159b.chunk.js.map"
+    "main.css": "/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/static/css/main.4d1b84c2.css",
+    "main.js": "/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/static/js/main.003e324f.js",
+    "static/js/453.12bc159b.chunk.js": "/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/static/js/453.12bc159b.chunk.js",
+    "index.html": "/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/index.html",
+    "main.4d1b84c2.css.map": "/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/static/css/main.4d1b84c2.css.map",
+    "main.003e324f.js.map": "/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/static/js/main.003e324f.js.map",
+    "453.12bc159b.chunk.js.map": "/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/static/js/453.12bc159b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d1b84c2.css",
-    "static/js/main.e14e9b93.js"
+    "static/js/main.003e324f.js"
   ]
 }

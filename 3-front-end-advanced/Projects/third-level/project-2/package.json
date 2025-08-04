@@ -2,7 +2,6 @@
   "name": "project-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-2",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",

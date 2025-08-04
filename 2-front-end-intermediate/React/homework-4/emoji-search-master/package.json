@@ -2,7 +2,7 @@
   "name": "emoji-search",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://ahfarmer.github.io/emoji-search",
+  "homepage": "https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master/build",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.1",

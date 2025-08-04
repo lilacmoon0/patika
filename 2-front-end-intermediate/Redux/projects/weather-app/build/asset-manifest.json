@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a6efcf7.css",
-    "main.js": "/static/js/main.39653109.js",
-    "static/js/453.6cfd0903.chunk.js": "/static/js/453.6cfd0903.chunk.js",
-    "index.html": "/index.html",
-    "main.5a6efcf7.css.map": "/static/css/main.5a6efcf7.css.map",
-    "main.39653109.js.map": "/static/js/main.39653109.js.map",
-    "453.6cfd0903.chunk.js.map": "/static/js/453.6cfd0903.chunk.js.map"
+    "main.css": "/patika/2-front-end-intermediate/Redux/projects/weather-app/build/static/css/main.5a6efcf7.css",
+    "main.js": "/patika/2-front-end-intermediate/Redux/projects/weather-app/build/static/js/main.90c51fd5.js",
+    "static/js/453.6cfd0903.chunk.js": "/patika/2-front-end-intermediate/Redux/projects/weather-app/build/static/js/453.6cfd0903.chunk.js",
+    "index.html": "/patika/2-front-end-intermediate/Redux/projects/weather-app/build/index.html",
+    "main.5a6efcf7.css.map": "/patika/2-front-end-intermediate/Redux/projects/weather-app/build/static/css/main.5a6efcf7.css.map",
+    "main.90c51fd5.js.map": "/patika/2-front-end-intermediate/Redux/projects/weather-app/build/static/js/main.90c51fd5.js.map",
+    "453.6cfd0903.chunk.js.map": "/patika/2-front-end-intermediate/Redux/projects/weather-app/build/static/js/453.6cfd0903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a6efcf7.css",
-    "static/js/main.39653109.js"
+    "static/js/main.90c51fd5.js"
   ]
 }
