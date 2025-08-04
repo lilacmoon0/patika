@@ -303,7 +303,7 @@ This repository showcases all the projects I've built while learning web develop
 
 ### Cyrpto App
 
-<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-2/client/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-2/build/index.html" target="_blank">
   <img src="./screenshots/CryptoVault.jpg" alt="Cyrpto App"   style="max-width: 50%; max-height: 300;">
 </a>
 
