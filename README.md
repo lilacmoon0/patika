@@ -104,7 +104,7 @@ This repository showcases all the projects I've built while learning web develop
 ## React Projects
 
 ### Todo App (React)
-<a href="https://github.com/lilacmoon0/patika/tree/main/2-front-end-intermediate/React/homework-2/to-do" target="_blank">
+<a href="(https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-2/to-do/build/index.html)" target="_blank">
   <img src="./screenshots/ReactToDo.jpg" alt="React To Do App"   style="max-width: 50%; max-height: 300;">
 </a>
 
@@ -313,7 +313,7 @@ This repository showcases all the projects I've built while learning web develop
 
 ### Card Game
 
-<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/client/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/build/index.html" target="_blank">
   <img src="./screenshots/MiniCard.jpg" alt="Card Game"   style="max-width: 50%; max-height: 300;">
 </a>
 
@@ -323,13 +323,13 @@ This repository showcases all the projects I've built while learning web develop
 
 ### Book Search App
 
-<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/client/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/build/index.html" target="_blank">
   <img src="./screenshots/book-search.jpg" alt="Book Search App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `API` `Real-time Data`  
 
-[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/second-level/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/client/build/index.html)
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/second-level/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/build/index.html)
 
 ## Third Level Projects
 
