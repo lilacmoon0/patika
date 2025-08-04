@@ -184,7 +184,7 @@ This repository showcases all the projects I've built while learning web develop
 
 **Tech Stack:** `React` `Redux` `Timer Logic`  
 
-[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/type-speed/type-speed) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/type-speed  /build/index.html)
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/type-speed/type-speed) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/type-speed/build/index.html)
 
 ### Markdown Previewer
 
