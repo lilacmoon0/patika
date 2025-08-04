@@ -1,8 +1,8 @@
-# 🚀 Patika Journey
+# Patika 
 
 > My Full-Stack Development Learning Path
 
-Welcome to my coding journey! This repository showcases all the projects I've built while learning web development through the Patika platform. From basic HTML/CSS to advanced React applications, each project represents a step forward in my development skills.
+This repository showcases all the projects I've built while learning web development through the Patika platform. From basic HTML/CSS to advanced React applications, each project represents a step forward in my development skills.
 
 ---
 
@@ -12,67 +12,90 @@ Welcome to my coding journey! This repository showcases all the projects I've bu
 |----------|---------|------------------|-------------|
 | HTML5 | CSS3 | Redux | GraphQL |
 | JavaScript (ES6+) | Bootstrap | React Hooks | Apollo |
-| React | Responsive Design | useState/useRef | REST APIs |
-| JSX | CSS Grid/Flexbox | Context API | Node.js |
+| React | AntDesign | React Context | REST APIs |
+| Apollo Client| | | Node.js |
 
 ---
-
-## 📈 Learning Progress
-
-```
-Front-End Beginner     ████████████████████ 100%
-React Fundamentals     ████████████████████ 100%
-Redux & State Mgmt     ████████████████████ 100%
-Advanced React         ██████████████████░░  90%
-GraphQL & Apollo       ████████████░░░░░░░░  60%
-Full-Stack Dev         ██████░░░░░░░░░░░░░░  30%
-```
 
 ## 📚 Learning Resources & Algorithms
 
 ### Data Structures & Algorithms
-- [Binary Search Tree](./1-front-end-beginner/Newmew%20-%20Stunning%20Dollop/Algorithms/BinarySearchTree.md)
-- [Insertion Sort](./1-front-end-beginner/Newmew%20-%20Stunning%20Dollop/Algorithms/InsertionSort.md)
-- [Merge Sort](./1-front-end-beginner/Newmew%20-%20Stunning%20Dollop/Algorithms/MergeSort.md)
+- [Binary Search Tree](./1-front-end-beginner/Algorithms/BinarySearchTree.md)
+- [Insertion Sort](./1-front-end-beginner/Algorithms/InsertionSort.md)
+- [Merge Sort](./1-front-end-beginner/Algorithms/MergeSort.md)
 
 
 # Front-End Beginner Projects
 
 
 ### Recipe Website
-A beautiful recipe sharing website with responsive design  
+<a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/CSS.homework1/Anasayfa.html" target="_blank">
+  <img src="./screenshots/TarifSitesi.jpg" alt="Tarif Sitesi" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `HTML` `CSS`  
-[� Code](https://github.com/lilacmoon0/patika/1-front-end-beginner/html-css/Tarifsitesi) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Tarifsitesi/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/1-front-end-beginner/html-css/Tarifsitesi) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Tarifsitesi/index.html)
 
 ### Google 1998 Clone
-Recreation of Google's 1998 homepage design  
+ 
+<a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/CSS.homework2-3/google-1998.html" target="_blank">
+  <img src="./screenshots/Google-1998.jpg" alt="Google 1998 Clone" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `HTML` `CSS`  
-[� Code](https://github.com/lilacmoon0/patika/1-front-end-beginner/html-css/CSS.homework2-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/CSS.homework2-3/google-1998.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/1-front-end-beginner/html-css/CSS.homework2-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/CSS.homework2-3/google-1998.html)
 
 ### Instagram Clone
-Instagram homepage clone using Bootstrap  
+
+<a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/instagramclone/index.html" target="_blank">
+  <img src="./screenshots/InstagramClone.jpg" alt="Instagram Clone" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `HTML` `Bootstrap`  
-[� Code](https://github.com/lilacmoon0/patika/1-front-end-beginner/html-css/Bootstrap/instagramclone) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/instagramclone/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/1-front-end-beginner/html-css/Bootstrap/instagramclone) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/instagramclone/index.html)
 
 ### LinkedIn Clone
-LinkedIn homepage clone using Bootstrap  
+
+<a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/linkedinclone/index.html" target="_blank">
+  <img src="./screenshots/LinkedInClone.jpg" alt="LinkedIn Clone" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `HTML` `Bootstrap`  
-[Code](https://github.com/lilacmoon0/patika/1-front-end-beginner/html-css/Bootstrap/linkedinclone) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/linkedinclone/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/1-front-end-beginner/html-css/Bootstrap/linkedinclone) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/linkedinclone/index.html)
 
 ### Asian Kitchen
-Restaurant menu with filtering functionality  
+
+<a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/asiankitchen/index.html" target="_blank">
+  <img src="./screenshots/AsianKitchen.jpg" alt="Asian Kitchen" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
-[Code](https://github.com/lilacmoon0/patika/1-front-end-beginner/JavaScript/asiankitchen) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/asiankitchen/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/1-front-end-beginner/JavaScript/asiankitchen) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/asiankitchen/index.html)
 
 ### Todo App
-Interactive todo list with local storage  
+
+<a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/ToDoHw/index.html" target="_blank">
+  <img src="./screenshots/ToDo.jpg" alt="To Do App" width="300" height="150"  style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
-[Code](https://github.com/lilacmoon0/patika/1-front-end-beginner/JavaScript/ToDoHw) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/ToDoHw/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/1-front-end-beginner/JavaScript/ToDoHw) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/ToDoHw/index.html)
 
 ### Digital Clock
-Real-time digital clock application  
+
+<a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/clockhw/index.html" target="_blank">
+  <img src="./screenshots/ClockHw.jpg" alt="Digital Clock" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
-[Code](https://github.com/lilacmoon0/patika/1-front-end-beginner/JavaScript/clockhw) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/clockhw/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/1-front-end-beginner/JavaScript/clockhw) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/clockhw/index.html)
 
 ---
 
@@ -81,19 +104,33 @@ Real-time digital clock application
 ## React Projects
 
 ### Todo App (React)
-Advanced todo application built with React  
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-2/to-do/build/index.html" target="_blank">
+  <img src="./screenshots/ReactToDo.jpg" alt="React To Do App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `useState` `localStorage`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-2/to-do) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-2/to-do/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/React/homework-2/to-do) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-2/to-do/build/index.html)
 
 ### Weather App
-Weather forecast application with API integration  
+
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-3/weather-app/build/index.html" target="_blank">
+  <img src="./screenshots/Weather-App.jpg" alt="React Weather App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `API` `CSS`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-3/weather-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-3/weather-app/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/React/homework-3/weather-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-3/weather-app/build/index.html)
 
 ### Emoji Search
-Search and filter emoji collection  
+
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master/build/index.html" target="_blank">
+  <img src="./screenshots/Emoji.png" alt="Emoji Search" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Hooks`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/React/homework-4/emoji-search-master) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master/build/index.html)
 
 
 ---
@@ -101,44 +138,84 @@ Search and filter emoji collection
 ## Redux Projects
 
 ### Note Taking App
-Note management with Redux state management  
-**Tech Stack:** `React` `Redux`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-1/note-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/index.html)
 
-### Money Tracker
-Personal finance tracking application  
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/index.html" target="_blank">
+  <img src="./screenshots/AddNote.jpg" alt="Note App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Redux`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-2/money-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/homework-1/note-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/index.html)
+
+### Money App
+ 
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/index.html" target="_blank">
+  <img src="./screenshots/BillGatesApp.jpg" alt="Money App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
+**Tech Stack:** `React` `Redux`  
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/homework-2/money-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/index.html)
 
 ### Card Memory Game
-Memory card game with Redux state  
+  
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/index.html" target="_blank">
+  <img src="./screenshots/CardGame.jpg" alt="Card Game" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Redux` `Game Logic`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-3/card-game) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/homework-3/card-game) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/index.html)
 
 ### COVID-19 Tracker
-Real-time COVID-19 statistics dashboard  
-**Tech Stack:** `React` `Redux` `API` `Charts`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/build/index.html)
+
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/build/index.html" target="_blank">
+  <img src="./screenshots/CovidApp.jpg" alt="Covid App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
+**Tech Stack:** `React` `Redux` `API` `Charts` 
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/covid-tracker) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/build/index.html)
 
 ### Text Generator
-AI-powered text generation tool  
+ 
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/build/index.html" target="_blank">
+  <img src="./screenshots/TextApp.jpg" alt="Text App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Redux` `API`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/text-generator) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/build/index.html)
 
 ### Typing Speed Test
-Interactive typing speed measurement game  
+
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/build/index.html" target="_blank">
+  <img src="./screenshots/TypeSpeed.jpg" alt="Type Speed App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Redux` `Timer Logic`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/type-speed) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/build/index.html)
 
 ### Markdown Previewer
-Real-time Markdown editor and previewer  
+
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/build/index.html" target="_blank">
+  <img src="./screenshots/MarkdownPreviewerApp.jpg" alt="Markdown Previewer App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Redux` `Markdown Parser`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/markdown-previewer) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/build/index.html)
 
 ### Checkers Game
-Interactive checkers game with AI opponent  
-**Tech Stack:** `React` `Redux` `Game Logic` `AI`  
-[Code](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/build/index.html)
+
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/build/index.html" target="_blank">
+  <img src="./screenshots/Checkers.jpg" alt="Checkers App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
+**Tech Stack:** `React` `Redux` `Game Logic` `AI` 
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/checkers-game) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/build/index.html)
 
 ---
 
@@ -147,19 +224,34 @@ Interactive checkers game with AI opponent
 ## GraphQL Projects
 
 ### Rick and Morty App
-Character explorer using GraphQL  
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app/build/index.html" target="_blank">
+  <img src="./screenshots/Rick-and-Morty.jpg" alt="Rick and Morty App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `GraphQL` `Apollo Client`  
-[Code](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app/build/index.html)
 
 ### Votes App
-Voting App using GraphQL
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-3/client/build/index.html" target="_blank">
+  <img src="./screenshots/Poll.jpg" alt="Votes App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `GraphQL` `Apollo` `Apollo Client`
-[Code](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-3/client/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/3-front-end-advanced/GraphQl/project-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-3/client/build/index.html)
 
 ### Chat App
-Anonymous Chat App using GraphQL 
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-4/client/build/index.html" target="_blank">
+  <img src="./screenshots/Anonymous.jpg" alt="Anonymous Chat App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `GraphQL` `Apollo` `Apollo Client`
-[Code](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-4/client/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/3-front-end-advanced/GraphQl/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-4/client/build/index.html)
 
 
 ---
@@ -169,58 +261,108 @@ Anonymous Chat App using GraphQL
 ## First Level Projects
 
 ### BMI Calculator
-Body Mass Index calculator with history tracking  
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-1/build/index.html" target="_blank">
+  <img src="./screenshots/BMI.jpg" alt="BMI App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Router` `Styled Components`  
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/first-level/project-1) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-1/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/first-level/project-1) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-1/build/index.html)
 
 ### E-Commerce App
-Complete shopping cart application with favorites  
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-2/build/index.html" target="_blank">
+  <img src="./screenshots/Commerce.jpg" alt="Covid App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Context API` `Styled Components` `Router`  
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/first-level/project-2) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-2/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/first-level/project-2) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-2/build/index.html)
 
 ### Notes App
-Note App  
+ 
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-3/build/index.html" target="_blank">
+  <img src="./screenshots/NotesApp.jpg" alt="Covid App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Styled Components` `Responsive Design`  
-[Code](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-3/build/index.html)
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/3-front-end-advanced/Projects/first-level/project-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-3/build/index.html)
 
 ### Portfolio Site
-Portfolio Site
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-4/build/index.html" target="_blank">
+  <img src="./screenshots/Portfolio.jpg" alt="Portfolio" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `API Integration` `Styled Components`  
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/first-level/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-4/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/first-level/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-4/build/index.html)
 
 ## Second Level Projects
 
 ### Anonymous Chat App
-Real-time chat application with Socket.IO  
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-1/client/build/index.html" target="_blank">
+  <img src="./screenshots/Anonymous-chat.jpg" alt="Anonymous Chat App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Node.js` `Socket.IO` `Full-Stack`  
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/second-level/project-1) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-1/client/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/second-level/project-1) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-1/client/build/index.html)
 
 ### Cyrpto App
-Crypto Tracker App using a REST API 
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-2/client/build/index.html" target="_blank">
+  <img src="./screenshots/CryptoVault.jpg" alt="Cyrpto App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Node.js` `API` `Full-Stack` 
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/second-level/project-2) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-2/client/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/second-level/project-2) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-2/client/build/index.html)
 
 ### Card Game
-Card Game
-**Tech Stack:** `React` `Context`
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/second-level/project-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/client/build/index.html)
 
-### Book Seatch App
-Google Books Search App
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/client/build/index.html" target="_blank">
+  <img src="./screenshots/MiniCard.jpg" alt="Card Game" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
+**Tech Stack:** `React` `Context`
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/second-level/project-3) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/client/build/index.html)
+
+### Book Search App
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/client/build/index.html" target="_blank">
+  <img src="./screenshots/book-search.jpg" alt="Book Search App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `API` `Real-time Data`  
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/second-level/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/client/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/second-level/project-4) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/client/build/index.html)
 
 ## Third Level Projects
 
 ### Rock Paper Scissors Game
-Interactive game with animations and scoring  
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-1/build/index.html" target="_blank">
+  <img src="./screenshots/RockPaperScissors.jpg" alt="Rock Paper Scissors Game" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Animations` `Game Logic`  
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/third-level/project-1) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-1/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/third-level/project-1) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-1/build/index.html)
 
 ### Form Builder
-Form Builder App 
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-2/build/index.html" target="_blank">
+  <img src="./screenshots/FormBuilder.jpg" alt="FormBuilder App" width="300" height="150" style="max-width: 100%; height: auto;">
+</a>
+
 **Tech Stack:** `React` `Node.js` `Advanced Architecture`  
-[Code](https://github.com/lilacmoon0/patika/3-front-end-advanced/Projects/third-level/project-2) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-2/build/index.html)
+
+[Code](https://github.com/lilacmoon0/patika/tree/main/3-front-end-advanced/Projects/third-level/project-2) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-2/build/index.html)
 
 
 # How to Run Projects Locally

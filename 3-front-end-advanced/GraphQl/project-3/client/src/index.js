@@ -14,16 +14,19 @@ import "./index.css";
 
 // HTTP link for queries and mutations
 const httpLink = new HttpLink({
-  uri: "http://localhost:4000/",
+  uri: "https://patika.onrender.com/",
 });
 
 // WebSocket link for subscriptions (GraphQL Yoga v1 compatible)
-const wsClient = new SubscriptionClient("ws://localhost:4000/subscriptions", {
-  reconnect: true,
-  connectionParams: () => {
-    return {};
-  },
-});
+const wsClient = new SubscriptionClient(
+  "wss://patika.onrender.com/subscriptions",
+  {
+    reconnect: true,
+    connectionParams: () => {
+      return {};
+    },
+  }
+);
 
 const wsLink = new WebSocketLink(wsClient);
 

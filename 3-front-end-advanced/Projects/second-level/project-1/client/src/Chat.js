@@ -28,7 +28,7 @@ const Chat = () => {
 
   // Initialize socket connection
   useEffect(() => {
-    const newSocket = io('http://localhost:5000');
+    const newSocket = io("https://chatapp-0ql0.onrender.com");
     setSocket(newSocket);
 
     // Connection events

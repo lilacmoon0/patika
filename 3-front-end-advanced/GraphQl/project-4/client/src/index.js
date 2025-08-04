@@ -16,13 +16,13 @@ import reportWebVitals from "./reportWebVitals";
 
 // HTTP link for queries and mutations
 const httpLink = createHttpLink({
-  uri: "http://localhost:4000",
+  uri: "https://chatappgraphql.onrender.com",
 });
 
 // WebSocket link for subscriptions
 const wsLink = new GraphQLWsLink(
   createClient({
-    url: "ws://localhost:4000/graphql",
+    url: "wss://chatappgraphql.onrender.com/graphql",
     connectionParams: {
       // Add any auth headers if needed
     },
