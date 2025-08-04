@@ -313,7 +313,7 @@ This repository showcases all the projects I've built while learning web develop
 
 ### Card Game
 
-<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/card-game/build/index.html" target="_blank">
   <img src="./screenshots/MiniCard.jpg" alt="Card Game"   style="max-width: 50%; max-height: 300;">
 </a>
 
