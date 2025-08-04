@@ -122,17 +122,6 @@ This repository showcases all the projects I've built while learning web develop
 
 [Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/React/homework-3/weather-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-3/weather-app/build/index.html)
 
-### Emoji Search
-
-<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master/build/index.html" target="_blank">
-  <img src="./screenshots/Emoji.png" alt="Emoji Search"   style="max-width: 50%; max-height: 300;">
-</a>
-
-**Tech Stack:** `React` `Hooks`  
-
-[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/React/homework-4/emoji-search-master) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master/build/index.html)
-
-
 ---
 
 ## Redux Projects
@@ -169,53 +158,53 @@ This repository showcases all the projects I've built while learning web develop
 
 ### COVID-19 Tracker
 
-<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/covid-app/build/index.html" target="_blank">
   <img src="./screenshots/CovidApp.jpg" alt="Covid App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `API` `Charts` 
 
-[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/covid-tracker) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/build/index.html)
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/covid-tracker/covid-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/covid-app/build/index.html)
 
 ### Text Generator
  
-<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/index.html" target="_blank">
   <img src="./screenshots/TextApp.jpg" alt="Text App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `API`  
 
-[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/text-generator) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/build/index.html)
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/text-generator/text-app) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/text-app/build/index.html)
 
 ### Typing Speed Test
 
-<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/type-speed/build/index.html" target="_blank">
   <img src="./screenshots/TypeSpeed.jpg" alt="Type Speed App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `Timer Logic`  
 
-[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/type-speed) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/build/index.html)
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/type-speed/type-speed) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/type-speed  /build/index.html)
 
 ### Markdown Previewer
 
-<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/markdown-prev/build/index.html" target="_blank">
   <img src="./screenshots/MarkdownPreviewerApp.jpg" alt="Markdown Previewer App" style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `Markdown Parser`  
 
-[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/markdown-previewer) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/build/index.html)
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/markdown-previewer/markdown-prev) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/markdown-prev/build/index.html)
 
 ### Checkers Game
 
-<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/build/index.html" target="_blank">
+<a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/index.html" target="_blank">
   <img src="./screenshots/Checkers.jpg" alt="Checkers App" style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `Game Logic` `AI` 
 
-[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/checkers-game) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/build/index.html)
+[Code](https://lilacmoon0.github.io/patika/tree/main/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/checkers-game/build/index.html)
 
 ---
 

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.3a6001b2.js",
-    "static/js/453.7ce46803.chunk.js": "/static/js/453.7ce46803.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.3a6001b2.js.map": "/static/js/main.3a6001b2.js.map",
-    "453.7ce46803.chunk.js.map": "/static/js/453.7ce46803.chunk.js.map"
+    "main.css": "/patika/3-front-end-advanced/Projects/first-level/project-2/build/static/css/main.e6c13ad2.css",
+    "main.js": "/patika/3-front-end-advanced/Projects/first-level/project-2/build/static/js/main.204994ae.js",
+    "static/js/453.7ce46803.chunk.js": "/patika/3-front-end-advanced/Projects/first-level/project-2/build/static/js/453.7ce46803.chunk.js",
+    "index.html": "/patika/3-front-end-advanced/Projects/first-level/project-2/build/index.html",
+    "main.e6c13ad2.css.map": "/patika/3-front-end-advanced/Projects/first-level/project-2/build/static/css/main.e6c13ad2.css.map",
+    "main.204994ae.js.map": "/patika/3-front-end-advanced/Projects/first-level/project-2/build/static/js/main.204994ae.js.map",
+    "453.7ce46803.chunk.js.map": "/patika/3-front-end-advanced/Projects/first-level/project-2/build/static/js/453.7ce46803.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3a6001b2.js"
+    "static/js/main.204994ae.js"
   ]
 }
