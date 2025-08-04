@@ -30,7 +30,7 @@ This repository showcases all the projects I've built while learning web develop
 
 ### Recipe Website
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/CSS.homework1/Anasayfa.html" target="_blank">
-  <img src="./screenshots/TarifSitesi.jpg" alt="Tarif Sitesi" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/TarifSitesi.jpg" alt="Tarif Sitesi"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `CSS`  
@@ -40,7 +40,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Google 1998 Clone
  
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/CSS.homework2-3/google-1998.html" target="_blank">
-  <img src="./screenshots/Google-1998.jpg" alt="Google 1998 Clone" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Google-1998.jpg" alt="Google 1998 Clone"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `CSS`  
@@ -50,7 +50,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Instagram Clone
 
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/instagramclone/index.html" target="_blank">
-  <img src="./screenshots/InstagramClone.jpg" alt="Instagram Clone" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/InstagramClone.jpg" alt="Instagram Clone"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `Bootstrap`  
@@ -60,7 +60,7 @@ This repository showcases all the projects I've built while learning web develop
 ### LinkedIn Clone
 
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/html-css/Bootstrap/linkedinclone/index.html" target="_blank">
-  <img src="./screenshots/LinkedInClone.jpg" alt="LinkedIn Clone" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/LinkedInClone.jpg" alt="LinkedIn Clone"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `Bootstrap`  
@@ -70,7 +70,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Asian Kitchen
 
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/asiankitchen/index.html" target="_blank">
-  <img src="./screenshots/AsianKitchen.jpg" alt="Asian Kitchen" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/AsianKitchen.jpg" alt="Asian Kitchen"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
@@ -80,7 +80,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Todo App
 
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/ToDoHw/index.html" target="_blank">
-  <img src="./screenshots/ToDo.jpg" alt="To Do App" width="300" height="150"  style="max-width: 100%; height: auto;">
+  <img src="./screenshots/ToDo.jpg" alt="To Do App"    style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
@@ -90,7 +90,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Digital Clock
 
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/clockhw/index.html" target="_blank">
-  <img src="./screenshots/ClockHw.jpg" alt="Digital Clock" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/ClockHw.jpg" alt="Digital Clock"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
@@ -105,7 +105,7 @@ This repository showcases all the projects I've built while learning web develop
 
 ### Todo App (React)
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-2/to-do/build/index.html" target="_blank">
-  <img src="./screenshots/ReactToDo.jpg" alt="React To Do App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/ReactToDo.jpg" alt="React To Do App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `useState` `localStorage`  
@@ -115,7 +115,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Weather App
 
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-3/weather-app/build/index.html" target="_blank">
-  <img src="./screenshots/Weather-App.jpg" alt="React Weather App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Weather-App.jpg" alt="React Weather App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `API` `CSS`  
@@ -125,7 +125,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Emoji Search
 
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/React/homework-4/emoji-search-master/build/index.html" target="_blank">
-  <img src="./screenshots/Emoji.png" alt="Emoji Search" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Emoji.png" alt="Emoji Search"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Hooks`  
@@ -140,7 +140,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Note Taking App
 
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-1/note-app/build/index.html" target="_blank">
-  <img src="./screenshots/AddNote.jpg" alt="Note App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/AddNote.jpg" alt="Note App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux`  
@@ -150,7 +150,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Money App
  
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/index.html" target="_blank">
-  <img src="./screenshots/BillGatesApp.jpg" alt="Money App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/BillGatesApp.jpg" alt="Money App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux`  
@@ -160,7 +160,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Card Memory Game
   
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/homework-3/card-game/build/index.html" target="_blank">
-  <img src="./screenshots/CardGame.jpg" alt="Card Game" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/CardGame.jpg" alt="Card Game"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `Game Logic`  
@@ -170,7 +170,7 @@ This repository showcases all the projects I've built while learning web develop
 ### COVID-19 Tracker
 
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/covid-tracker/build/index.html" target="_blank">
-  <img src="./screenshots/CovidApp.jpg" alt="Covid App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/CovidApp.jpg" alt="Covid App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `API` `Charts` 
@@ -180,7 +180,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Text Generator
  
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/text-generator/build/index.html" target="_blank">
-  <img src="./screenshots/TextApp.jpg" alt="Text App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/TextApp.jpg" alt="Text App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `API`  
@@ -190,7 +190,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Typing Speed Test
 
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/type-speed/build/index.html" target="_blank">
-  <img src="./screenshots/TypeSpeed.jpg" alt="Type Speed App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/TypeSpeed.jpg" alt="Type Speed App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `Timer Logic`  
@@ -200,7 +200,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Markdown Previewer
 
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/markdown-previewer/build/index.html" target="_blank">
-  <img src="./screenshots/MarkdownPreviewerApp.jpg" alt="Markdown Previewer App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/MarkdownPreviewerApp.jpg" alt="Markdown Previewer App" style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `Markdown Parser`  
@@ -210,7 +210,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Checkers Game
 
 <a href="https://lilacmoon0.github.io/patika/2-front-end-intermediate/Redux/projects/checkers-game/build/index.html" target="_blank">
-  <img src="./screenshots/Checkers.jpg" alt="Checkers App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Checkers.jpg" alt="Checkers App" style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Redux` `Game Logic` `AI` 
@@ -226,7 +226,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Rick and Morty App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app/build/index.html" target="_blank">
-  <img src="./screenshots/Rick-and-Morty.jpg" alt="Rick and Morty App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Rick-and-Morty.jpg" alt="Rick and Morty App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `GraphQL` `Apollo Client`  
@@ -236,7 +236,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Votes App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-3/client/build/index.html" target="_blank">
-  <img src="./screenshots/Poll.jpg" alt="Votes App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Poll.jpg" alt="Votes App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `GraphQL` `Apollo` `Apollo Client`
@@ -246,7 +246,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Chat App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-4/client/build/index.html" target="_blank">
-  <img src="./screenshots/Anonymous.jpg" alt="Anonymous Chat App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Anonymous.jpg" alt="Anonymous Chat App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `GraphQL` `Apollo` `Apollo Client`
@@ -263,7 +263,7 @@ This repository showcases all the projects I've built while learning web develop
 ### BMI Calculator
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-1/build/index.html" target="_blank">
-  <img src="./screenshots/BMI.jpg" alt="BMI App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/BMI.jpg" alt="BMI App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Router` `Styled Components`  
@@ -273,7 +273,7 @@ This repository showcases all the projects I've built while learning web develop
 ### E-Commerce App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-2/build/index.html" target="_blank">
-  <img src="./screenshots/Commerce.jpg" alt="Covid App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Commerce.jpg" alt="Covid App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Context API` `Styled Components` `Router`  
@@ -283,7 +283,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Notes App
  
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-3/build/index.html" target="_blank">
-  <img src="./screenshots/NotesApp.jpg" alt="Covid App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/NotesApp.jpg" alt="Covid App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Styled Components` `Responsive Design`  
@@ -293,7 +293,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Portfolio Site
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/first-level/project-4/build/index.html" target="_blank">
-  <img src="./screenshots/Portfolio.jpg" alt="Portfolio" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/portfolio.jpg" alt="Portfolio"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `API Integration` `Styled Components`  
@@ -305,7 +305,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Anonymous Chat App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-1/client/build/index.html" target="_blank">
-  <img src="./screenshots/Anonymous-chat.jpg" alt="Anonymous Chat App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/Anonymous-chat.jpg" alt="Anonymous Chat App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Node.js` `Socket.IO` `Full-Stack`  
@@ -315,7 +315,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Cyrpto App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-2/client/build/index.html" target="_blank">
-  <img src="./screenshots/CryptoVault.jpg" alt="Cyrpto App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/CryptoVault.jpg" alt="Cyrpto App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Node.js` `API` `Full-Stack` 
@@ -325,7 +325,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Card Game
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-3/client/build/index.html" target="_blank">
-  <img src="./screenshots/MiniCard.jpg" alt="Card Game" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/MiniCard.jpg" alt="Card Game"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Context`
@@ -335,7 +335,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Book Search App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/second-level/project-4/client/build/index.html" target="_blank">
-  <img src="./screenshots/book-search.jpg" alt="Book Search App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/book-search.jpg" alt="Book Search App"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `API` `Real-time Data`  
@@ -347,7 +347,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Rock Paper Scissors Game
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-1/build/index.html" target="_blank">
-  <img src="./screenshots/RockPaperScissors.jpg" alt="Rock Paper Scissors Game" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/RockPaperScissors.jpg" alt="Rock Paper Scissors Game"   style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Animations` `Game Logic`  
@@ -357,7 +357,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Form Builder
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/Projects/third-level/project-2/build/index.html" target="_blank">
-  <img src="./screenshots/FormBuilder.jpg" alt="FormBuilder App" width="300" height="150" style="max-width: 100%; height: auto;">
+  <img src="./screenshots/FormBuilder.jpg" alt="FormBuilder App"  style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `React` `Node.js` `Advanced Architecture`  
