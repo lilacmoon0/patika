@@ -1,4 +1,4 @@
-# Patika  [![academy-logo](https://github.com/kaylaa0/patika/assets/107824429/c85278d7-4d11-4056-b6b4-fb70bc3faaa5)](https://www.patika.dev/)
+# [![academy-logo](https://github.com/kaylaa0/patika/assets/107824429/c85278d7-4d11-4056-b6b4-fb70bc3faaa5)](https://www.patika.dev/)
 
 > My Full-Stack Development Learning Path
 
