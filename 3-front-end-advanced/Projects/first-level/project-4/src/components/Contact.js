@@ -32,36 +32,28 @@ const Contact = () => {
           <div className="contact-info">
             <h3>Let's work together!</h3>
             <p>
-              I'm always interested in new opportunities and exciting projects. 
-              Whether you have a project in mind or just want to chat about technology, 
-              feel free to reach out!
+              I'm always interested in new opportunities and exciting projects.
+              Whether you have a project in mind or just want to chat about
+              technology, feel free to reach out!
             </p>
             <div className="contact-details">
               <div className="contact-item">
                 <div className="contact-icon">📧</div>
                 <div>
                   <h4>Email</h4>
-                  <p>your.email@example.com</p>
-                </div>
-              </div>
-              <div className="contact-item">
-                <div className="contact-icon">📱</div>
-                <div>
-                  <h4>Phone</h4>
-                  <p>+1 (555) 123-4567</p>
-                </div>
-              </div>
-              <div className="contact-item">
-                <div className="contact-icon">📍</div>
-                <div>
-                  <h4>Location</h4>
-                  <p>New York, NY</p>
+                  <p>akyuzmerin@gmail.com</p>
                 </div>
               </div>
             </div>
             <div className="social-links">
-              <button className="social-link" onClick={() => window.open('https://github.com/lilacmoon0', '_blank')}>GitHub</button>
-              
+              <button
+                className="social-link"
+                onClick={() =>
+                  window.open("https://github.com/lilacmoon0", "_blank")
+                }
+              >
+                GitHub
+              </button>
             </div>
           </div>
           <form className="contact-form" onSubmit={handleSubmit}>

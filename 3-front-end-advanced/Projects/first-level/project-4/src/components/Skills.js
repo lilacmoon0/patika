@@ -3,26 +3,36 @@ import './Skills.css';
 
 const Skills = () => {
   const skills = [
-    { name: 'JavaScript', level: 90 },
-    { name: 'TypeScript', level: 80 },
-    { name: 'React', level: 85 },
-    { name: 'Node.js', level: 80 },
-    { name: 'HTML/CSS', level: 95 },
-    { name: 'MongoDB', level: 70 },
-    { name: 'Git', level: 85 },
-    { name: 'Docker', level: 60 },
-    { name: 'GraphQL', level: 90 },
-    { name: 'REST APIs', level: 80 },
-    { name: 'Redux', level: 90 },
-    
+    { name: "JavaScript", level: 90 },
+    { name: "TypeScript", level: 80 },
+    { name: "React", level: 85 },
+    { name: "Node.js", level: 80 },
+    { name: "HTML/CSS", level: 95 },
+    { name: "MongoDB", level: 70 },
+    { name: "Git", level: 70 },
+    { name: "Docker", level: 60 },
+    { name: "GraphQL", level: 90 },
+    { name: "REST APIs", level: 80 },
+    { name: "Redux", level: 90 },
+    { name: "Ant Design", level: 40 },
+    { name: "Bootstrap", level: 80 },
+    { name: "Styled Components", level: 70 },
+    { name: "Figma", level: 50 },
   ];
 
   const tools = [
-    'VsCode',
-    'Git',
-    'Postman',
-    'Docker',
-    'Hasura',
+    "VsCode",
+    "Git",
+    "Postman",
+    "Docker",
+    "Hasura",
+    "SourceTree",
+    "Heroku",
+    "Netlify",
+    "Vercel",
+    "Render",
+    "MongoDB Atlas",
+    "AWS",
   ];
 
   return (
