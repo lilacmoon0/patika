@@ -29,7 +29,7 @@ export const Money = ({ totalMoney }) => {
 
   return (
     <div className="money">
-      <img src="/billgates.jpg" alt="Bill Gates" />
+      <img src="./billgates.jpg" alt="Bill Gates" />
       <h1>Spend Bill Gates' Money</h1>
       <h2>${displayMoney.toLocaleString("de-DE")}</h2>
     </div>

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/css/main.fb3b2997.css",
-    "main.js": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/js/main.07d81287.js",
+    "main.js": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/js/main.baac7e5f.js",
     "static/js/453.14aa519b.chunk.js": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/js/453.14aa519b.chunk.js",
     "index.html": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/index.html",
     "main.fb3b2997.css.map": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/css/main.fb3b2997.css.map",
-    "main.07d81287.js.map": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/js/main.07d81287.js.map",
+    "main.baac7e5f.js.map": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/js/main.baac7e5f.js.map",
     "453.14aa519b.chunk.js.map": "/patika/2-front-end-intermediate/Redux/homework-2/money-app/build/static/js/453.14aa519b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb3b2997.css",
-    "static/js/main.07d81287.js"
+    "static/js/main.baac7e5f.js"
   ]
 }

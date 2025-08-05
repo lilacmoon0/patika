@@ -14,9 +14,9 @@ function App() {
 
   const choices = ['rock', 'paper', 'scissors'];
   const emojis = {
-    rock: '/rock.png',
-    paper: '/paper.png',
-    scissors: '/scissors.png'
+    rock: "./rock.png",
+    paper: "./paper.png",
+    scissors: "./scissors.png",
   };
 
   const getComputerChoice = () => {

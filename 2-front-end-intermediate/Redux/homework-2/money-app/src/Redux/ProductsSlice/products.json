@@ -4,174 +4,174 @@
     "name": "airpods",
     "price": 200,
     "amount": 0,
-    "img": "/images/airpods.jpg"
+    "img": "./images/airpods.jpg"
   },
   {
     "id": 2,
     "name": "apache-helicopter",
     "price": 31000000,
     "amount": 0,
-    "img": "/images/apache-helicopter.jpg"
+    "img": "./images/apache-helicopter.jpg"
   },
   {
     "id": 3,
     "name": "auto-rickshaw",
     "price": 2300,
     "amount": 0,
-    "img": "/images/auto-rickshaw.jpg"
+    "img": "./images/auto-rickshaw.jpg"
   },
   {
     "id": 4,
     "name": "big-mac",
     "price": 2,
     "amount": 0,
-    "img": "/images/big-mac.jpg"
+    "img": "./images/big-mac.jpg"
   },
   {
     "id": 5,
     "name": "bike",
     "price": 800,
     "amount": 0,
-    "img": "/images/bike.jpg"
+    "img": "./images/bike.jpg"
   },
   {
     "id": 6,
     "name": "boeing",
     "price": 148000000,
     "amount": 0,
-    "img": "/images/boeing-747.jpg"
+    "img": "./images/boeing-747.jpg"
   },
   {
     "id": 7,
     "name": "coca-cola-pack",
     "price": 5,
     "amount": 0,
-    "img": "/images/coca-cola-pack.jpg"
+    "img": "./images/coca-cola-pack.jpg"
   },
   {
     "id": 8,
     "name": "cruise-ship",
     "price": 930000000,
     "amount": 0,
-    "img": "/images/cruise-ship.jpg"
+    "img": "./images/cruise-ship.jpg"
   },
   {
     "id": 9,
     "name": "diamond-ring",
     "price": 10000,
     "amount": 0,
-    "img": "/images/diamond-ring.jpg"
+    "img": "./images/diamond-ring.jpg"
   },
   {
     "id": 10,
     "name": "drone",
     "price": 350,
     "amount": 0,
-    "img": "/images/drone.jpg"
+    "img": "./images/drone.jpg"
   },
   {
     "id": 11,
     "name": "flip-flops",
     "price": 3,
     "amount": 0,
-    "img": "/images/flip-flops.jpg"
+    "img": "./images/flip-flops.jpg"
   },
   {
     "id": 12,
     "name": "ford-f",
     "price": 30000,
     "amount": 0,
-    "img": "/images/ford-f-150.jpg"
+    "img": "./images/ford-f-150.jpg"
   },
   {
     "id": 13,
     "name": "gold-bar",
     "price": 700000,
     "amount": 0,
-    "img": "/images/gold-bar.jpg"
+    "img": "./images/gold-bar.jpg"
   },
   {
     "id": 14,
     "name": "hot-tub",
     "price": 6000,
     "amount": 0,
-    "img": "/images/hot-tub.jpg"
+    "img": "./images/hot-tub.jpg"
   },
   {
     "id": 15,
     "name": "jet-ski",
     "price": 12000,
     "amount": 0,
-    "img": "/images/jet-ski.jpg"
+    "img": "./images/jet-ski.jpg"
   },
   {
     "id": 16,
     "name": "m1-abrams",
     "price": 8000000,
     "amount": 0,
-    "img": "/images/m1-abrams.jpg"
+    "img": "./images/m1-abrams.jpg"
   },
   {
     "id": 17,
     "name": "make-a-movie",
     "price": 100000000,
     "amount": 0,
-    "img": "/images/make-a-movie.jpg"
+    "img": "./images/make-a-movie.jpg"
   },
   {
     "id": 18,
     "name": "mansion",
     "price": 45000000,
     "amount": 0,
-    "img": "/images/mansion.jpg"
+    "img": "./images/mansion.jpg"
   },
   {
     "id": 19,
     "name": "mcdonalds-franchise",
     "price": 1500000,
     "amount": 0,
-    "img": "/images/mcdonalds-franchise.jpg"
+    "img": "./images/mcdonalds-franchise.jpg"
   },
   {
     "id": 20,
     "name": "mona-lisa",
     "price": 780000000,
     "amount": 0,
-    "img": "/images/mona-lisa.jpg"
+    "img": "./images/mona-lisa.jpg"
   },
   {
     "id": 21,
     "name": "single-family-home",
     "price": 300000,
     "amount": 0,
-    "img": "/images/single-family-home.jpg"
+    "img": "./images/single-family-home.jpg"
   },
   {
     "id": 22,
     "name": "skyscraper",
     "price": 850000000,
     "amount": 0,
-    "img": "/images/skyscraper.jpg"
+    "img": "./images/skyscraper.jpg"
   },
   {
     "id": 23,
     "name": "smartphone",
     "price": 6000,
     "amount": 0,
-    "img": "/images/smartphone.jpg"
+    "img": "./images/smartphone.jpg"
   },
   {
     "id": 24,
     "name": "tesla",
     "price": 75000,
     "amount": 0,
-    "img": "/images/tesla.jpg"
+    "img": "./images/tesla.jpg"
   },
   {
     "id": 25,
     "name": "video-game",
     "price": 60,
     "amount": 0,
-    "img": "/images/video-game.jpg"
+    "img": "./images/video-game.jpg"
   }
 ]
