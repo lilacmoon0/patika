@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/css/main.e3da75ca.css",
-    "main.js": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/js/main.8807c274.js",
+    "main.js": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/js/main.db452bb7.js",
     "static/js/453.1d2ba6fb.chunk.js": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/js/453.1d2ba6fb.chunk.js",
     "index.html": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/index.html",
     "main.e3da75ca.css.map": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/css/main.e3da75ca.css.map",
-    "main.8807c274.js.map": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/js/main.8807c274.js.map",
+    "main.db452bb7.js.map": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/js/main.db452bb7.js.map",
     "453.1d2ba6fb.chunk.js.map": "/patika/3-front-end-advanced/Projects/first-level/project-4/build/static/js/453.1d2ba6fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3da75ca.css",
-    "static/js/main.8807c274.js"
+    "static/js/main.db452bb7.js"
   ]
 }
