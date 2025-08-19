@@ -80,7 +80,7 @@ This repository showcases all the projects I've built while learning web develop
 ### Todo App
 
 <a href="https://lilacmoon0.github.io/patika/1-front-end-beginner/JavaScript/ToDoHw/index.html" target="_blank">
-  <img src="./screenshots/ToDo.jpg" alt="To Do App"    style="max-width: 50%; max-height: 300;">
+  <img src="./screenshots/Todo.jpg" alt="To Do App"    style="max-width: 50%; max-height: 300;">
 </a>
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
