@@ -15,11 +15,11 @@ import "./index.css";
 
 // HTTP link for queries and mutations
 const httpLink = new HttpLink({
-  uri: "http://localhost:4000/",
+  uri: "https://patika-ze0n.onrender.com",
 });
 
 // WebSocket link for subscriptions (GraphQL Yoga v1 compatible)
-const wsClient = new SubscriptionClient("ws://localhost:4000/subscriptions", {
+const wsClient = new SubscriptionClient("ws://patika-ze0n.onrender.com/subscriptions", {
   reconnect: true,
   connectionParams: () => {
     return {};

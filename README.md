@@ -212,6 +212,17 @@ This repository showcases all the projects I've built while learning web develop
 
 ## GraphQL Projects
 
+### EventHub App
+
+<a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app/build/index.html" target="_blank">
+  <img src="./screenshots/EventHub.jpg" alt="EventHub App"   style="max-width: 50%; max-height: 300;">
+</a>
+
+**Tech Stack:** `React` `GraphQL` `Apollo Client`  
+
+[Code](https://lilacmoon0.github.io/patika/tree/main/3-front-end-advanced/GraphQl/homework_3-6/client) | [🚀 Live Demo](https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/homework_3-6/build/index.html)
+
+
 ### Rick and Morty App
 
 <a href="https://lilacmoon0.github.io/patika/3-front-end-advanced/GraphQl/project-2/rick-and-morty-app/build/index.html" target="_blank">
